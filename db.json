@@ -1,0 +1,10 @@
+{
+  "Transfer": [
+    {
+      "LoanId": "Abc123",
+      "AccountHolderName": "Abc",
+      "AccountNumber":123,
+      "Balance":8000
+    }
+  ]
+}
